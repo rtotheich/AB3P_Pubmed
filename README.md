@@ -4,5 +4,5 @@
 ###   Acronym (short form - SF)|Term (long form - LF)|Score
 Example</br>
 1</br>
-<nbsp><nbsp>CPR|Cardiopulmonary Resuscitation|0.98</br>
-<nbsp><nbsp>...
+&nbsp&nbspCPR|Cardiopulmonary Resuscitation|0.98</br>
+&nbsp&nbsp...
